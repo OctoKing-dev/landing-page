@@ -1,0 +1,13 @@
+header, 
+footer {
+  background-color: #1f2937;
+}
+
+.call-to-action,
+.signup-button {
+  background-color: #3882F6;
+}
+
+.quote {
+  background-color: #e5e7eb;
+}
