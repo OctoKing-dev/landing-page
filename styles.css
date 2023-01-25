@@ -10,6 +10,13 @@ footer {
   background-color: #1f2937;
 }
 
+header, 
+footer,
+.info,  
+.quote {
+  padding: 0 128px;
+}
+
 footer {
   color: #f9faf8;
 }
@@ -23,6 +30,10 @@ footer {
 .signup-button {
   color: #f9faf8;
   background-color: #3882F6;
+}
+
+.call-to-action {
+  margin: 0 128px;
 }
 
 .gallery {
@@ -92,6 +103,10 @@ footer {
   margin: 0;
 }
 
+.quote blockquote {
+  margin: 0;
+}
+
 .quote-caption {
   font-size: 18px;
   font-weight: bold;
@@ -103,4 +118,5 @@ footer {
   font-size: 36px;
   font-style: italic;
   font-weight: 300;
+  margin: 0;
 }
