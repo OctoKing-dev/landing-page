@@ -19,6 +19,15 @@ footer {
   font-weight: 800;
 }
 
+.links {
+  list-style-type: none;
+}
+
+.links a,
+.logo-text {
+  text-decoration: none;
+}
+
 .links a,
 .secondary-text {
   color: #e5e7eb;
