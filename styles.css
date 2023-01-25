@@ -82,11 +82,13 @@ footer {
 
 .quote {
   background-color: #e5e7eb;
+  margin: 0;
 }
 
 .quote-caption {
   font-size: 18px;
   font-weight: bold;
+  text-align: right;
 }
 
 .quote-text {
