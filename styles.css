@@ -1,6 +1,7 @@
 body {
   display: flex;
   flex-direction: column;
+  font-family: Roboto, Ubuntu, 'Open Sans', 'Helvetica Neue', sans-serif;
   height: 100vh;
   margin: 0;
 }
