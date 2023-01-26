@@ -22,19 +22,39 @@ footer {
   color: #f9faf8;
 }
 
+.action-title, 
+.action-text {
+  margin: 0;
+}
+
+.action-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
 .banner {
   display: flex;
   justify-content: space-between;
 }
 
-.call-to-action,
+.call-to-action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.call-to-action-container,
 .signup-button {
   color: #f9faf8;
   background-color: #3882F6;
 }
 
-.call-to-action {
-  margin: 0 128px;
+.call-to-action-container {
+  display: flex;
+  align-items: center;
+  gap: 128px;
+  border-radius: 8px;
+  padding: 32px 96px;
 }
 
 .gallery {
