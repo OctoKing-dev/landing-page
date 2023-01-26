@@ -40,12 +40,18 @@ footer {
 .gallery {
   display: flex;
   flex-flow: row wrap;
-  gap: 16px;
+  gap: 48px;
   text-align: center;
 }
 
 .gallery-image {
   border: 2px solid #3882f6;
+  height: 160px;
+  width: 160px;
+}
+
+.gallery-item {
+  max-width: 160px;
 }
 
 .header-container {
