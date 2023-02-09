@@ -12,13 +12,14 @@ footer {
 }
 
 header, 
-footer,
 .info {
   padding: 0 128px;
 }
 
 footer {
   color: #f9faf8;
+  text-align: center;
+  padding: 16px 0;
 }
 
 .action-title, 
