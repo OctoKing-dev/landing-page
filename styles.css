@@ -11,9 +11,8 @@ footer {
   background-color: #1f2937;
 }
 
-header, 
-.info {
-  padding: 0 256px;
+header {
+  padding: 16px 256px 128px;
 }
 
 footer {
