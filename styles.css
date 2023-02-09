@@ -13,8 +13,7 @@ footer {
 
 header, 
 footer,
-.info,  
-.quote {
+.info {
   padding: 0 128px;
 }
 
@@ -135,6 +134,7 @@ footer {
 .quote {
   background-color: #e5e7eb;
   margin: 0;
+  padding: 128px 328px;
 }
 
 .quote blockquote {
