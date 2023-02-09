@@ -40,6 +40,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 64px;
 }
 
 .call-to-action .signup-button {
@@ -86,6 +87,7 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 64px;
 }
 
 .info-header {
@@ -133,7 +135,7 @@ footer {
 
 .quote {
   background-color: #e5e7eb;
-  margin: 0;
+  margin: 0 0 64px;
   padding: 128px 328px;
 }
 
