@@ -34,6 +34,7 @@ footer {
 .banner {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 64px;
 }
 
 .call-to-action {
