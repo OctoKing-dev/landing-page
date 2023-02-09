@@ -83,6 +83,17 @@ footer {
   align-items: center;
 }
 
+.header-text-container, 
+.header-picture {
+  flex: 1;
+}
+
+.header-picture {
+  text-align: center;
+  background: grey;
+  height: 100%;
+}
+
 .info {
   display: flex;
   flex-direction: column;
