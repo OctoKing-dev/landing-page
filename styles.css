@@ -6,6 +6,10 @@ body {
   margin: 0;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 header, 
 footer {
   background-color: #1f2937;
