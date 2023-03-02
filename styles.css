@@ -34,7 +34,7 @@ footer {
 .banner {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 64px;
+  margin-bottom: 128px;
 }
 
 .call-to-action {
@@ -86,14 +86,18 @@ footer {
 }
 
 .header-text-container, 
-.header-picture {
+.header-picture-container {
   flex: 1;
 }
 
 .header-picture {
   text-align: center;
   background: grey;
-  height: 100%;
+  max-width: 100%;
+}
+
+.header-picture-container {
+  max-width: 640px;
 }
 
 .info {
@@ -144,6 +148,7 @@ footer {
   color: #f9faf8;
   font-size: 48px;
   font-weight: 800;
+  margin-top: 0;
 }
 
 .quote {
