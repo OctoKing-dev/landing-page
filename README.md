@@ -1,4 +1,5 @@
 # landing-page
+A landing page for a fictional law firm's newsletter, created as an exercise in The Odin Project.  
 
 ## Image Credits
 Sergei Tokmakov (gavel_1280.jpg) - https://pixabay.com/users/sergeitokmakov-3426571/  
